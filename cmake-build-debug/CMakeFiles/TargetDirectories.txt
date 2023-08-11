@@ -1,4 +1,5 @@
 C:/Users/Acer/Desktop/toolbox/cmake-build-debug/CMakeFiles/toolbox.dir
 C:/Users/Acer/Desktop/toolbox/cmake-build-debug/CMakeFiles/algs-sorting.dir
+C:/Users/Acer/Desktop/toolbox/cmake-build-debug/CMakeFiles/arrays.dir
 C:/Users/Acer/Desktop/toolbox/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Acer/Desktop/toolbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
